@@ -1,0 +1,81 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+/*input[type=submit] {
+  margin-bottom: 50px;
+  margin-left: 10px;
+}*/
+
+/*div.container input(:first-child) {
+  margin-top: 0;
+}*/
+
+table {
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}
+
+/*.wrapper {
+  margin-top: 10px;
+  padding: 20px 30px;
+}*/
+
+.glyphicon {
+  font-size: 12px;
+}
+
+.buttons {
+  text-align: left;
+}
+
+.btn:active,
+.btn:focus {
+  outline: none;
+}
+
+.btn-primary:focus {
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.btn-danger:focus {
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+
+.buttons > button:not(:first-child) {
+  margin-left: 10px;
+}
+
+.modal-title .glyphicon {
+  font-size: 14px;
+}
+
+.removeMessages {
+  text-align: left;
+  /*padding: 0 30px;*/
+}
+
+.dropdown-menu li {
+  cursor: pointer;
+}
+
+.page-header {
+  margin-top: 30px;
+  border-bottom: 3px solid #eee;
+}
+
+.glyphicon-asterisk {
+  color: red;
+  font-size: 8px;
+}
