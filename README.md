@@ -5,7 +5,7 @@
 Для удобства работы пользователя с табличными данными используется библиотека DataTables(jQuery).  
 
 # Демо
-Посмотреть в действии можно [здесь](http://frolovd.hol.es/project/).
+Посмотреть в действии можно [здесь](http://frolov.website/projects/phonebook/).
 
 # Стек технологий  
 **Frontend**: Bootstrap/jQuery/DataTables  
